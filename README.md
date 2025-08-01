@@ -4,10 +4,6 @@ this is my first git repo.
 author saumya singh
 fgffhffjkfijriok
 jzxshgvghhgshxagagasscsaumya sinhs fxghddgdhbxj
-hgdyuehsvjgfx
-ghh
-vgvg
-vgvh
-hgh
-DTNBVBFFGHH 
-vh
+JHVBFV 
+BVHFVJF 
+JHVFVHU
