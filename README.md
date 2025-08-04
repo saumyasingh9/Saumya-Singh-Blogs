@@ -7,6 +7,6 @@ jzxshgvghhgshxagagasscsaumya sinhs fxghddgdhbxj
 JHVBFV 
 BVHFVJF 
 JHVFVHU
-MY NAME IS SAUMYA SINGH
+NAME IS SAUMYA SINGH
 I AM NEW TO GIT FGGHHBHGDV
 ccf
