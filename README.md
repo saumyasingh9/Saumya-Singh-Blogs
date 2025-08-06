@@ -7,7 +7,7 @@ jzxshgvghhgshxagagasscsaumya sinhs fxghddgdhbxj
 JHVBFV 
 BVHFVJF ggyqhvxghg
 JHVFVU
-NAME IS SAUMYA SINGh
+NAME IS SAUMYA SINGH
 I AM NEW IT 
 sdffv <br>
 
