@@ -12,5 +12,9 @@ NAME IS SAUMYA SINGH
 sdffv <br>
 my name saumya sngh cbhcd
 FG
+<<<<<<< HEAD
 ghb
 vvhnn
+=======
+
+>>>>>>> f6b80b7091140ac5734e0cf529b1bb9d99178de9
