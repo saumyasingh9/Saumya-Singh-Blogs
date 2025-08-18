@@ -103,6 +103,6 @@ Here’s a simple representation of how they work together:
 
 ## 🏁 Conclusion
 
-Security Groups and NACLs are fundamental to AWS network security. While Security Groups provide instance-level control with stateful rules, NACLs secure the subnet boundary with stateless rules. Together, they provide **defense-in-depth**, ensuring your AWS environment remains secure and resilient.
+Security Groups and NACLs are fundamental to AWS network security. While Security Group provide instance-level control with stateful rules, NACLs secure the subnet boundary with stateless rules. Together, they provide **defense-in-depth**, ensuring your AWS environment remains secure and resilient.
 
 ---
