@@ -1,4 +1,4 @@
-# firstreponew
+# Saumya Singh Blogs
 # 🌩️ AWS & Cloud Blog Repository
 
 Welcome to my personal blog repository!  
@@ -35,4 +35,5 @@ This repository contains all the source files of my blogs published on [Hashnode
 
 ## 📫 Connect with Me
 - 🌐 [Hashnode Blog](https://hashnode.com/@SAUMYA24) 
+
 
