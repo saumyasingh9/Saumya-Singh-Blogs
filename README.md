@@ -1,4 +1,4 @@
-# firstreponew
+# My-Blogs
 # 🌩️ AWS & Cloud Blog Repository
 
 Welcome to my personal blog repository!  
