@@ -44,7 +44,7 @@ Example: If you allow inbound HTTP (port 80) traffic, you must also allow outbou
 
 ---
 
-## ⚖️ Security Groups vs NACLs: A Quick Comparison
+##  Security Groups vs NACLs: A Quick Comparison
 
 | Feature | Security Group (SG) | Network ACL (NACL) |
 | --- | --- | --- |
