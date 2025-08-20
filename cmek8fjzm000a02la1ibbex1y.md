@@ -189,6 +189,6 @@ Let’s create a working **Auto Scaling Group (ASG)** in AWS.
 
 With **EC2 Auto Scaling**, you don’t have to worry about sudden traffic surges or idle resources. It ensures your application stays **resilient, scalable, and cost-efficient**.
 
-By following the above steps, you can set up Auto Scaling in **minutes** and enjoy the benefits of cloud automation.
+By following the above steps you can set up Auto Scaling in **minutes** and enjoy the benefits of cloud automation.
 
 ---
