@@ -13,8 +13,8 @@ This repository contains all the source files of my blogs published on [Hashnode
 - 🔐 Security & Identity (IAM, Roles, Policies, Security Groups, NACLs)
 - 💰 Cost Monitoring & Optimization
 - 🖥️ Hands-on Projects with AWS
-- 🐧 Linux for Cloud
-- 📜 Automation & Scripting
+- 🐧 Linux for Cloud 
+- 📜 Automation & Scripting 
 
 ---
 
@@ -26,7 +26,7 @@ This repository contains all the source files of my blogs published on [Hashnode
 ---
 
 ## ✨ About Me
-- 🎓 B.Tech CSE Graduate (ITM GIDA College)  
+- 🎓 B.Tech CSE Graduate  (ITM GIDA College)  
 - 📚 Completed **AWS re/Start Program** (Magic Bus India Foundation)  
 - 🌱 Currently exploring **AWS Cloud Support roles**  
 - 🛠️ Passionate about **Cloud, DevOps, and Automation**  
