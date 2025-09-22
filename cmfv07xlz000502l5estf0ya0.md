@@ -142,8 +142,6 @@ These take away much of the cluster management burden while letting you focus on
 
 ---
 
-Would you like me to also **add a “Future Trends” section** (like Docker’s shift toward Podman/containerd, and Kubernetes evolving with serverless and GitOps) so your article feels more up-to-date and forward-looking?
-
 ### Final Thoughts
 
 If you’re just starting out, **learn Docker first** to understand how containers work. Once you’re comfortable, dive into **Kubernetes** to explore scaling, orchestration, and automation in production environments. Together, they form the backbone of modern cloud-native development.
