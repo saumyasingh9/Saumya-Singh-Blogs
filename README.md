@@ -2,7 +2,7 @@
 # 🌩️ AWS & Cloud Blog Repository
 
 Welcome to my personal blog repository!  
-I’m **Saumya Singh**, a Cloud enthusiast sharing my learning journey, hands-on projects, and tutorials around **AWS, Linux, and Cloud Computing**.  
+I’m **Saumya Singh**, a Cloud enthusiast sharing my learning journey, hands-on projects, and tutorials around **AWS, Linux, DevOps and Cloud technologies**.  
 
 This repository contains all the source files of my blogs published on [Hashnode](https://hashnode.com/@SAUMYA24).  
 
